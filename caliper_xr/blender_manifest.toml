@@ -6,6 +6,7 @@ name = "Caliper XR"
 tagline = "Shape-true CAD to lean XR meshes, measured both ways"
 maintainer = "Techcopter"
 type = "add-on"
+website = "https://github.com/Techcopter/caliper-xr"
 
 blender_version_min = "4.2.0"
 
