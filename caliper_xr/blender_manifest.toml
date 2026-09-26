@@ -1,0 +1,17 @@
+schema_version = "1.0.0"
+
+id = "caliper_xr"
+version = "1.0.0"
+name = "Caliper XR"
+tagline = "Shape-true CAD to lean XR meshes, measured both ways"
+maintainer = "Techcopter"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+tags = ["Mesh", "Import-Export"]
+
+[permissions]
+files = "Write GLB exports and the rebuild report to disk"
