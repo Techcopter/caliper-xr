@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/img/banner.svg" alt="CALIPER XR - heavy CAD in, lean XR out, measured both ways" width="100%">
+  <img src="docs/img/banner.png" alt="CALIPER XR: heavy CAD in, lean XR out, measured both ways. A flanged part split into its dense CAD wireframe and the lean Caliper result, 0.200 mm tolerance" width="100%">
 </p>
 
 <p align="center">
